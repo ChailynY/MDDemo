@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="all">
+        <item
+            android:id="@+id/navItem1"
+            android:icon="@mipmap/ic_launcher"
+            android:title="用户信息"/>
+        <item
+            android:id="@+id/navItem2"
+            android:icon="@mipmap/ic_launcher"
+            android:title="充值记录"/>
+
+        <item
+            android:id="@+id/navItem3"
+            android:icon="@mipmap/ic_launcher"
+            android:title="我的收藏"/>
+
+        <item
+            android:id="@+id/navItem4"
+            android:icon="@mipmap/ic_launcher"
+            android:title="浏览记录"/>
+    </group>
+
+
+
+</menu>
+
